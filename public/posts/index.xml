@@ -6,37 +6,23 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Wed, 14 Feb 2024 12:07:01 -0500</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 19:01:29 -0500</lastBuildDate>
         <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>My Third Post</title>
-            <link>localhost/posts/my-third-post/</link>
-            <pubDate>Wed, 14 Feb 2024 12:07:01 -0500</pubDate>
+            <title>First Posts</title>
+            <link>localhost/posts/first-posts/</link>
+            <pubDate>Wed, 14 Feb 2024 19:01:29 -0500</pubDate>
             
-            <guid>localhost/posts/my-third-post/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
-        </item>
-        
-        <item>
-            <title>My Second Post</title>
-            <link>localhost/posts/my-second-post/</link>
-            <pubDate>Wed, 14 Feb 2024 12:06:32 -0500</pubDate>
-            
-            <guid>localhost/posts/my-second-post/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
-        </item>
-        
-        <item>
-            <title>My First Post</title>
-            <link>localhost/posts/my-first-post/</link>
-            <pubDate>Wed, 14 Feb 2024 12:04:57 -0500</pubDate>
-            
-            <guid>localhost/posts/my-first-post/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <guid>localhost/posts/first-posts/</guid>
+            <description>Welcome to my first post on my new site! For context this is the second site that I have had live. The previous site was hosted on git but was forked from an unowned repo. This site is still hosted on git but is created by HUGO a static site generator which I will discuss in a seperate blog.
+This site will contain numerous things I work on. School and personal projects.</description>
+            <content type="html"><![CDATA[<h2 id="welcome-to-my-first-post-on-my-new-site">Welcome to my first post on my new site!</h2>
+<p>For context this is the second site that I have had live. The previous site was hosted on git but
+was forked from an unowned repo. This site is still hosted on git but is created by HUGO a static
+site generator which I will discuss in a seperate blog.</p>
+<p>This site will contain numerous things I work on. School and personal projects. Information about myself and what I do for work and fun. Hopefully CTF writeups.</p>
+]]></content>
         </item>
         
     </channel>

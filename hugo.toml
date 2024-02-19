@@ -1,4 +1,4 @@
-baseurl      = "https://void4121.github.io"
+baseurl      = "https://void4121.github.io/leet-tech"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"

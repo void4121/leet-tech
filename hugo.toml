@@ -27,6 +27,8 @@ paginate     = 10
   keywords = "homepage, blog"
   images = [""]
 
+  # adding recent posts to homepage
+  recentPosts = 5
 [taxonomies]
     category = "blog"
     tag      = "tags"

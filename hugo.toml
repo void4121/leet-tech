@@ -1,4 +1,4 @@
-baseurl      = "https://leet-tech"
+baseurl      = "https://leet-tech.net"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"

@@ -8,3 +8,9 @@ tags:
   - untagged
 ---
 
+
+This post will contain the current/on going changes to my Linux configurations. This includes everything from software, DE(Desktop enviornments), system management, and bash scripts
+
+My current git configurations cant be found at:
+https://github.com/void4121/linux-customization
+

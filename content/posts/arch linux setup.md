@@ -14,7 +14,8 @@ This post will contain the current/on going changes to my Linux configurations. 
 My current git configurations cant be found at:
 https://github.com/void4121/linux-customization
 
-Overview:
+**Overview:**
+
 1 - First things first we need Arch installed. With the help of my Youtube degree I was able to install arch via archinstall script. Its easy for beginners although most in the linux community recommend installing from scratch this was my lazy/quick attempt to get it running
 
 side note: During the installation process I struggled alot with graphics card drivers and getting the display to function which I will mention troubleshooting steps later

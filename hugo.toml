@@ -11,7 +11,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "My personal site"
+  homeSubtitle = "Not much here yet but feel free to explore"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -36,7 +36,7 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "Hello World :)"
+    title = "Welcome to my site!"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -45,7 +45,7 @@ paginate     = 10
     subtitle  = "A simple theme for Hugo"
 
     [languages.en.params.logo]
-      logoText = "Hello Tech leets"
+      logoText = "Hello World :)"
       logoHomeLink = "/"
     # or
     #
@@ -55,5 +55,5 @@ paginate     = 10
   # And you can even create generic menu
   [[menu.main]]
     identifier = "blog"
-    name       = "Blog"
+    name       = "Posts"
     url        = "/posts"
